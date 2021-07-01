@@ -24,7 +24,3 @@ const arr = [
 arr.sort((a, b) => a - b);
 const reversed = arr.reverse();
 console.log(arr); // Console loggar störst till minst
-
-
-
-
